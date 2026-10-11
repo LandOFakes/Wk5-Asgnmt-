@@ -36,7 +36,7 @@ The notebook explains why EEN, MYF, and DVT are excluded from geographic ranking
 
 ## Upload to GitHub and submit
 
-1. Create a public repository named `is362-week5-airports-weather` in your GitHub account.
+1. Create a public repository named `Wk5-Asgnmt-` in your GitHub account.
 2. Extract the project ZIP on your computer.
 3. Upload the contents of this project folder, keeping the `data` folder intact. Do not upload only the ZIP.
 4. Commit the files.
